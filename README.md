@@ -15,7 +15,7 @@ The below block diagram resumes those phases:
 
 1. Raspberry Pi V3 - US$ 32.00
 2. 5 Megapixels 1080p Sensor OV5647 Mini Camera Video Module - US$ 13.00
-3. 
+
 # Step 2: Installing OpenCV 3 Package
 I am using a Raspberry Pi V3 updated to the last version of Raspbian (Stretch), so the best way to have OpenCV installed, is to follow the excellent tutorial developed by Adrian Rosebrock: Raspbian Stretch: Install OpenCV 3 + Python on your Raspberry Pi.
 
