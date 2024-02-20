@@ -76,7 +76,6 @@ cap.set(3,640) # set Width
 cap.set(4,480) # set Height
 
 while(True):
-
     ret, frame = cap.read()
     
     frame = cv2.flip(frame, -1) # Flip camera vertically
@@ -141,7 +140,6 @@ cap.set(3,640) # set Width
 cap.set(4,480) # set Height
 
 while True:
-
     ret, img = cap.read()
     
     img = cv2.flip(img, -1)
